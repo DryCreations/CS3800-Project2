@@ -1,0 +1,36 @@
+body {
+    width: 100%;
+    max-width: 1000 px;
+    margin-left: 20px;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+label {
+    font-size: .8em;
+}
+
+form {
+    margin-top: .5em;
+}
+
+.login_label {
+    display: inline-block;
+    width: 10em;
+    margin-top: 1em;
+}
+
+input {
+  margin-top: 20px;
+}
+
+input[type='submit'] {
+  margin-top: 50px;
+}
+
+#check_button {
+    font-size: .75em;
+    margin-left: 5px;
+}

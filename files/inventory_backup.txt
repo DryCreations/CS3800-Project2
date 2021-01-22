@@ -1,0 +1,8 @@
+1,cthulu duck,1.99,5
+2,sonic duck,5.99,5
+3,big duck,99.99,5
+4,pika duck,2.99,5
+5,mr t duck,4.99,5
+6,conan duck,4.99,5
+7,naruto duck,5.99,5
+8,cowboy duck,15.99,5

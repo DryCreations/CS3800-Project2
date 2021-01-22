@@ -1,0 +1,113 @@
+header {
+    background-color: lightyellow;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 10px solid yellow;
+}
+
+header h1 {
+    margin: 0px;
+}
+
+main > a {
+    float: right;
+    margin: 20px;
+}
+
+main > div {
+    clear: both;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1600px;
+    margin:auto;
+}
+
+main > div section {
+    margin: 10px;
+    width: 250px;
+    overflow: hidden;
+    border-top: 10px solid yellow;
+}
+
+main > div section p {
+    margin: 2px;
+}
+
+main > div section p:first-of-type {
+    color: red;
+    font-weight: bold;
+}
+
+main > div section img {
+    margin: auto;
+}
+
+footer {
+    background-color: lightyellow;
+    text-align: center;
+    margin-top: 10px;
+}
+
+main table {
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+main form {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+thead, tfoot {
+  background-color: #EEEEEE;  
+  font-weight: bold;
+}
+
+main form:first-child {
+    max-width: 300px;
+    margin:auto;
+    margin-bottom: 10px;
+}
+
+main form:first-child label {
+float: left;
+}
+main form:first-child input, main form:first-child select {
+float: right;
+margin-bottom: 10px;
+}
+
+main form input[type=submit] {
+    float: none;
+}
+
+main form:first-child br {
+clear:both;
+}
+
+main > h2 {
+    text-align: center;
+}
+
+main {
+    max-width: 1200px;
+    margin: auto;
+}
+
+td form {
+    display: inline;
+}
+
+td form input {
+    margin-left: 10px;
+    width:25px;
+    height:25px;
+}
